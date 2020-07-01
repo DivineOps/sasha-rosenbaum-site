@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="columns">
+        {{ range $.Site.Data.headshots }}
+        <div class="column">
+            <figure class="image">
+                {{- $img := .url -}}
+                <img src="{{- $img | relURL -}}" style="width:300px" alt="Myself">
+                <p>{{- .size -}}</p>
+            </figure>
+        </div>
+        {{ end }}
+    </div>
+</div>

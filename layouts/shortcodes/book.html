@@ -1,0 +1,25 @@
+<div class="box">
+    <div class="columns">
+      <div class="column is-3">
+        <figure>     
+          <a href='{{ .Get "link" }}' target="blank" ><img src='{{ .Get "image" }}' alt="Book image"></a>
+        </figure>
+      </div>
+      <div class="column">
+        <p class="title is-4"><a href='{{ .Get "link" }}' target="blank">{{ .Get "title" }}</a></p>
+        <p class="subtitle is-6">{{ .Get "authors" }} </p>
+
+        <div class="content" style="padding: 10px 20px 10px 0px">
+          <p>
+            {{ $content := print "$s" (.Inner  | markdownify) }}
+            {{ if in  $content "\n" }} 
+              {{ .Inner | markdownify }}
+            {{ else }}
+              <p>{{ .Inner  | markdownify }}</p>
+            {{ end }}
+          </p>
+        </div>
+      </div>
+    </div>
+  
+</div>
