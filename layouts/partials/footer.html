@@ -17,9 +17,7 @@
       
     <div class="column">
         <div class="footer-column">
-          <div class="footer-header">
-              <h3>{{ i18n "website" }}</h3>
-          </div>
+          
           <ul class="link-list">
             {{- if or (eq $home "footer") (eq $home "menu+footer") -}}
             <li>
@@ -55,9 +53,7 @@
       {{ if (or (or (or (or (or (isset .Site.Params.footer "linkedin") (isset .Site.Params.footer "email")) (isset .Site.Params.footer "facebook")) (isset .Site.Params.footer "twitter")) (isset .Site.Params.footer "instagram")) (isset .Site.Params.footer "github")) }}
       <div class="column">
         <div class="footer-column">
-          <div class="footer-header">
-              <h3>{{ i18n "contacts" }}</h3>
-          </div>
+          
           <ul class="link-list">
             {{ if isset .Site.Params.footer.twitter "link" }}
             <li>
@@ -83,6 +79,13 @@
               </a>
             </li>
             {{ end }} 
+          </ul>
+        </div>
+      </div>
+            <div class="column">
+              <div class="footer-column">
+                
+                <ul class="link-list">
             {{ if isset .Site.Params.footer.linkedin "link" }}
             <li>
               <a href="https://www.linkedin.com/{{ .Site.Params.footer.linkedin.link }}" target="_blank">
@@ -141,9 +144,7 @@
       {{ if isset .Site.Params.footer "copyright" }}
       <div class="column">
         <div class="footer-column">
-          <div class="footer-header">
-              <h3>{{ i18n "copyright" }}</h3>
-          </div>
+         
           <ul class="link-list">
             <li>
               <a>

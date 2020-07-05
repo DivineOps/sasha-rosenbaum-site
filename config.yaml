@@ -21,6 +21,12 @@ DefaultContentLanguage: en
 
 disableKinds: ["sitemap","RSS"]
 
+# Enable HTML tags
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 # Option to specify that all links will be open in a new tab.
 blackfriday:
   hrefTargetBlank: true
@@ -38,7 +44,7 @@ Taxonomies:
 params:
   # parameter used to specify the number of article in each row 
   # for the summary pages, the possible options are: 2, 3, 4, 5 or 6
-  articlesPerRow: 3 
+  articlesPerRow: 1 
 
   # option to specify the favicon image of the site
   # the path is relative to the folder "assetDir" of this configuration

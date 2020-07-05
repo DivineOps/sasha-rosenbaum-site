@@ -1,0 +1,27 @@
+{{- define "main" -}}
+
+    {{- partial "navbar.html" . -}}
+    {{- partial "navbar-clone.html" . -}}
+
+    <div class="section">
+      <ul class="posts">
+        {{ range .Data.Pages }}
+        {{ if eq .Type .Section }}
+        {{- partial "single/summary.html" . -}}
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+    
+    {{- partial "footer.html" . -}}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{- partial "sidebar.html" . -}}
+
+{{- end -}}
+
+
+
+
