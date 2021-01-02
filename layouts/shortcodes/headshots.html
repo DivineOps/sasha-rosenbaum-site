@@ -3,9 +3,9 @@
         {{ range $.Site.Data.headshots }}
         <div class="column">
             <figure class="image">
-                {{- $img := .url -}}
+                {{- $img := .thumbURL -}}
                 <img src="{{- $img | relURL -}}" style="width:300px" alt="Myself">
-                <p>{{- .size -}}</p>
+                <a href="{{- .downloadLink -}}" target="_blank">Download [{{- .size -}}]</a>
             </figure>
         </div>
         {{ end }}

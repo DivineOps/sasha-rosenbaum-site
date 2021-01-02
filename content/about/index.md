@@ -13,6 +13,8 @@ Sasha is a Product Manager at GitHub, focused on helping engineers be successful
 
 In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author.
 
+<hr>
+
 # Headshots
 
 If you need my headshot for any reason, please download your favorite one from here:
