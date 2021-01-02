@@ -9,7 +9,7 @@ I am excited to announce that <a href="https://twitter.com/DivineOps" target=_bl
 ### <a href="https://www.azureninjas.cloud" target=_blank>Azure Ninjas!</a> ###
 
 In the podcast, we slice and dice through Azure architectures for different products and services, interviewing the members of the Microsoft engineering teams. The podcast is intentionally audio only so you can listen and learn on the go. 
-<br/>
-<br/>
+<br>
+<br>
 Please check out our <a href="https://www.azureninjas.cloud" target=_blank>first episodes</a>!
 
