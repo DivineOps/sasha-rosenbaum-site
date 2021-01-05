@@ -113,7 +113,7 @@ params:
     # option to specify the title in the homepage
     title: Sasha Rosenbaum
     # option to specify the subtitle in the homepage
-    subtitle: Sr. Product Manager, GitHub
+    subtitle: Sr. Manager, Managed OpenShift Black Belts, Red Hat
     # option to specify image in the homepage
     image: "/images/Sasha_Rosenbaum_Square.jpg" # worker.svg 
     # option to specify the width of the image in the homepage

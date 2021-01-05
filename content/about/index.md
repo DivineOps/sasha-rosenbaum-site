@@ -9,7 +9,7 @@ showInMenu: true
 
 # Short Bio
 
-Sasha is a Product Manager at GitHub, focused on helping engineers be successful with using GitHub for work as well as for open source. 
+Sasha is a Senior Manager on the Managed OpenShift Black Belt team at Red Hat, where she is helping enterprise customers successfully migrate to OpenShift managed service on Azure or AWS Cloud.
 
 In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author.
 
