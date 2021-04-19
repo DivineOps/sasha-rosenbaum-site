@@ -2,8 +2,8 @@
 title: "The Anatomy of a Customer Presentation"
 date: 2021-04-18T00:00:00-05:00
 draft: false
-# summary: "Sasha presenting to an audience"
-# summaryImage: "/images/blog/anatomy-of-customer-presentation/sasha-on-stage.jpg"
+summary: "This post is highlighting the differences in the anatomy of a customer presentation compared to a narrative-oriented conference talk"
+summaryImage: "sasha-on-stage.jpg"
 hideLastModified: false
 ---
 
@@ -186,3 +186,4 @@ Whew, you made it to the end of a long post! You deserve a cookie!
 <img src="/images/blog/anatomy-of-customer-presentation/fortune-cookie.png" alt="fortune cookie" width="250px" />
 
 If you have questions or comments, feel free to reach out on Twitter, I am [@DivineOps](https://twitter.com/DivineOps).
+
