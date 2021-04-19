@@ -2,10 +2,13 @@
 title: "The Anatomy of a Customer Presentation"
 date: 2021-04-18T00:00:00-05:00
 draft: false
-summary: "This post is highlighting the differences in the anatomy of a customer presentation compared to a narrative-oriented conference talk"
-summaryImage: "sasha-on-stage.jpg"
+summary: "This post highlights the differences in the anatomy of a customer presentation as compared to a narrative-oriented conference talk."
+summaryImage: "summary.jpg"
 hideLastModified: false
 ---
+
+<img src="summary.jpg" alt="Sasha on stage"  />
+
 
 Most speaking advice is written for the kind of presentation you are likely to give at a conference, the kind I will call a "narrative talk". And yet, there is another kind of presentation altogether, the kind I will call a "customer presentation". If you are just starting out in Technical Sales or Developer Relations, you might think that these two are one and the same, but they are distinctly different.
 
@@ -156,11 +159,11 @@ Of course not! What your slides look like depends on the goal your slideware is 
 
 This is a typical slide for me at a conference talk:
 
-<img src="/images/blog/anatomy-of-customer-presentation/conference-talk-slide-example.png" alt="conference talk slide example" width="600px" />
+<img src="/images/blog/anatomy-of-customer-presentation/conference-talk-slide-example.png" alt="conference talk slide example" width="750px" />
 
-This, on the other hand, is an example of an executive summary slide from Nancy Duarte’s excellent book “DataStory: Explain Data and Inspire Action Through Story”:
+This, on the other hand, is an example of the executive summary slide from Nancy Duarte’s excellent book “DataStory: Explain Data and Inspire Action Through Story”:
 
-<img src="/images/blog/anatomy-of-customer-presentation/executive-summary-slidedoc-nancy-duarte.png" alt="Executive Summary Slidedoc Nancy Duarte" width="600px" />
+<img src="/images/blog/anatomy-of-customer-presentation/executive-summary-slidedoc-nancy-duarte.png" alt="Executive Summary Slidedoc Nancy Duarte" width="750px" />
 
 
 Why the difference? The second slide is not just a presentation, it is a Slidedoc.
