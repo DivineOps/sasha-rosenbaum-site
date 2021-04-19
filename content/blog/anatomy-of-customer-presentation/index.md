@@ -25,7 +25,7 @@ If you come from DevRel and need to talk to customers, or just starting out in T
 
 ***Customer presentation*** - a talk given to a customer audience, usually to a set of known customer stakeholders. In Technical Sales, these presentations typically involve a deep dive into the technical aspects of your product, or a business-value conversation around it.
 
-Note: the context of where you give each type of presentation is not absolute. You may (rarely) give a “narrative talk” to a customer, or a “customer presentation” at a conference (think of a technical breakout session). But the type of talk is distinctly different, and knowing which one you are aiming for is important.
+Note: the context of where you give each type of presentation is not absolute. You may give a “narrative talk” to a customer, or a “customer presentation” at a conference (think of a technical breakout session). But the type of talk is distinctly different, and knowing which one you are aiming for is important.
 
 # Talking at vs Talking with
 
@@ -80,6 +80,8 @@ Questions you must ask before the call:
 - What problem are they trying to solve?
 - If they have used your product before, what questions / issues do they have.
 - Questions about their tech stack (as appropriate in the context of your product).
+
+If the meeting is attended by only a few key stakeholders from the customer, it pays off to check out their LinkedIn ahead of time. 
 
 You will never have all the time you wish you had to prepare. The technology landscape is vast, and every enterprise customer is a snowflake. Do your best to understand where the conversation is likely to go, and do your best to anticipate their questions. If you have a list of issues they’ve shared, research those. If they mentioned 3rd party products, give them a skim. You’ve got this.
 
