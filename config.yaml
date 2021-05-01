@@ -21,6 +21,9 @@ DefaultContentLanguage: en
 
 disableKinds: ["sitemap","RSS"]
 
+# Add Google Analytics tracking
+googleAnalytics: "UA-115911216-1"
+
 # Enable HTML tags
 markup:
   goldmark:
@@ -133,8 +136,8 @@ params:
     twitter: 
        link: DivineOps
        title: Twitter
-    # option to specify your github account in the footer; 
-    github: 
+    # option to specify your githugoogle analytics account in the footer; 
+    githugoogle: 
       link: DivineOps
       title: Github
     # option to specify your linkedin profile in the footer
