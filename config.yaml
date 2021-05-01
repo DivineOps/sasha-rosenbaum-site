@@ -19,7 +19,7 @@ DefaultContentLanguage: en
 ## Option to disable additional language in your site.
 # disableLanguages: ["ru"]
 
-disableKinds: ["sitemap","RSS"]
+#disableKinds: ["sitemap","RSS"]
 
 # Add Google Analytics tracking
 googleAnalytics: "UA-115911216-1"
