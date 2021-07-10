@@ -190,5 +190,5 @@ Whew, you made it to the end of a long post! You deserve a cookie!
 
 <img src="/images/blog/anatomy-of-customer-presentation/fortune-cookie.png" alt="fortune cookie" width="250px" />
 
-If you have questions or comments, feel free to reach out on Twitter, I am [@DivineOps](https://twitter.com/DivineOps).
+If you have questions or comments, feel free to reach out on Twitter, I am <a href="https://twitter.com/DivineOps" target="_blank">@DivineOps</a>
 
