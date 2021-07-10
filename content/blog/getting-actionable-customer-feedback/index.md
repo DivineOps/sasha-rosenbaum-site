@@ -83,14 +83,35 @@ When you run into a true adoption blocker, don't stop after you get the first hi
  
 # Communicating the product team response back to the customer 
 The product team response usually falls into one of the following categories
+<ol>
+<ul>
 1. The feature already exists - congratulations, you get to immediately make your customer happy!
+ </ul>
+<ul>
 2. The feature is on / was added to the roadmap, with the approximate delivery date of... 
+ </ul>
+<ul>
 3. The feature is not currently a priority due to being a rare request (is your customer a real snowflake?)
+ </ul>
+<ul>
 4. The feature is too costly to implement
+ </ul>
+<ul>
 5. Implementing the feature doesn’t align with the product / company priorities, for instance:
+    <ol>
+    <ul>
    - An ask for enhanced capabilities in a feature that is planned to be sunsetted
+    </ul>
+    <ul>
    - A feature that leads the customer down the wrong path (for instance, encourages Waterfall rather than Agile project planning)
+    </ul>
+    <ul>
    - An integration with a competing product
+   </ul>
+    </ul>
+   </ol>
+</ol>
+
 
 In the same way you have empathy for your customers, your customers have empathy for you. Explaining why building a certain feature is currently impossible goes a REALLY long way. Exceptions can be made even to compliance policies - if your customer understands why the exception is justified, and is convinced that that the benefits of your product outweigh the downsides.
 
