@@ -4,8 +4,8 @@
         <div class="column">
             <figure class="image">
                 {{- $img := .thumbURL -}}
-                <img src="{{- $img | relURL -}}" style="width:300px" alt="Myself">
                 <a href="{{- .downloadLink -}}" download="Sasha_Rosenbaum" target="_blank">Download [{{- .size -}}]</a>
+                <img src="{{- $img | relURL -}}" style="width:300px" alt="Myself">      
             </figure>
         </div>
         {{ end }}
