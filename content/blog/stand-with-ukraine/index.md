@@ -13,22 +13,23 @@ This post is my personal view of the current situation in Ukraine. Even though I
 
 # What is happening
 
-As of today, Russian military is leading an all-out war on Ukraine. They have invaded Ukraine on multiple fronts TODO, and are bombing cities all over the country TODO. Russia is using Belorus as a base and is aided by Belorussian troops TODO. 
+As of today, the Russian military is leading an all-out war on Ukraine. They have invaded Ukraine on [multiple fronts](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine#24_February), and are [bombing cities all over the country](https://en.wikipedia.org/wiki/List_of_military_engagements_during_the_2022_Russian_invasion_of_Ukraine). Russia is using [Belarus as a base and is aided by Belarusian troops](https://kyivindependent.com/national/sources-belarus-to-join-russias-war-on-ukraine-within-hours/).
 
-Civilian targets all over Ukraine are under fire TODO. People spend days in makeshift bomb shelters TODO. Civilians are killed TODO. 
+[Civilian targets](https://www.washingtonpost.com/world/2022/03/01/ukraine-russia-babyn-yar/) all over Ukraine are under fire. People spend days in [makeshift bomb shelters](https://www.npr.org/2022/02/28/1083421199/those-who-havent-fled-ukraine-hunker-down-in-make-shift-bomb-shelters). [Civilians are killed](https://www.theguardian.com/world/2022/mar/02/children-teachers-civilian-casualties-of-the-ukraine-conflict). 
 
-Even with many EU borders open to Ukrainian refugees TODO, most people cannot flee the country.  
+Even with many [EU borders open to Ukrainian refugees](https://www.washingtonpost.com/world/2022/02/27/ukraine-refugees-photos-videos/), most people cannot flee the country.  
 
-TODO map of targets
+[![map of recent attacks](map-ua.png)](https://liveuamap.com/)
 
-There are 40+ TODO million people in Ukraine. 40 million people under fire.
+There are [41+ million people in Ukraine](https://en.wikipedia.org/wiki/Demographics_of_Ukraine). 41 million people under fire.
 
 As I write these words, I am terrified that at any moment Putin may win. If he does, I will be cut off from helping friends and family, cut off from seeing my home ever again. 
 
-**Putin goal is a new Soviet Union**
+**Putin's goal is a new Soviet Union**
+
 This war is much bigger than a single country invasion. 
 
-In his speech prior to invasion of Ukraine TODO, Putin said that the break of USSR was "the greatest geo-political catasrophe or the 21 century" TODO and that he wants the NATO borders back at the 9X level TODO. 
+In his [speech](https://www.nytimes.com/2022/02/24/world/europe/putin-ukraine-speech.html) prior to the invasion of Ukraine, Putin said that the break of USSR was "the greatest geo-political catasrophe or the 21 century" TODO and that he wants the NATO borders back at the 9X level TODO. 
 
 Leaked information suggests that Putin intends to instate a puppet pro-Russian government over Ukraine. If he succeeds, there will no longer be anything that the West can do to stop him from forming a new version of USSR. 
 
