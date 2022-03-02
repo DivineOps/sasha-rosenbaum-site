@@ -9,7 +9,7 @@ hideLastModified: false
 
 <img src="summary.jpg" alt="Stand with Ukraine"  />
 
-This post is my personal view of the current situation in Ukraine. Even though I am personally safe, I am experiencing some degree of fear posting these words. I am free to speak my mind because I live in a democratic country, and I don't have close relatives in Russia who could be threatened to silence me. Many of my friends are not so lucky.
+This post is my voice, my personal view of the current situation in Ukraine. Even though I am personally safe, I am experiencing some degree of fear posting these words. I am free to speak my mind because I live in a democratic country, and I don't have close relatives in Russia who could be threatened to silence me. Many of my friends are not so lucky.
 
 # What is happening
 
@@ -21,9 +21,9 @@ Even with many [EU borders open to Ukrainian refugees](https://www.washingtonpos
 
 [![map of recent attacks](map-ua.png)](https://liveuamap.com/)
 
-There are [41+ million people in Ukraine](https://en.wikipedia.org/wiki/Demographics_of_Ukraine). 41 million people under fire.
+There are Over 40 million people in Ukraine. 40 million people under fire.
 
-As I write these words, I am terrified that at any moment Putin may win. If he does, I will be cut off from helping friends and family, cut off from seeing my home ever again. 
+*As I write these words, I am terrified that at any moment Putin may win. If he does, my friends and family might be killed or jailed, and I will have no means of helping them. If he does, I can never again visit the places where I or my family were born*
 
 **Putin's goal is a new Soviet Union**
 
@@ -41,11 +41,13 @@ I am not a country leader. I am not privvy to classified intel. I am guessing th
 
 I have no other explanation for what is happening. 
 
-NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the power to stop civilians from dying. 
+NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the technology to intercept Russian attacks without deploying a single soldier. 
 
-Yet NATO is doing NOTHING.
+Yet NATO is doing NOTHING. 
 
-History shows us that dictators don't stop when they are winning. If the world does nothing to save Ukraine, what's to stop Putin from using the same nuclear threat to invade Latvia, Lithuania or Estonia, Kasakhstan or Georgia or any other of the former USSR republics? TODO
+The West is using Ukraine as a live shield, letting Ukrainian women and children die. 
+
+History shows us that dictators don't stop while winning. If the world does nothing to save Ukraine, what's to stop Putin from using the same nuclear threat to invade Latvia, Lithuania or Estonia, Georgia or Kazakhstan, or any other of the former USSR republics? 
 
 **This is a broken promise** 
 
@@ -59,13 +61,15 @@ The world leaders keep giving inspirational speeches about the tough people of U
 
 No matter how tough Ukrainians are, or how committed they are to their freedom, they do not have enough human resources, funds, or military equipment to hold off Russia and Belorus joint invasion. 
 
-Economic sanctions are helpful. But they aren't sufficient to save Ukraine from demolition today. 
+Economic sanctions will not save Ukraine today. 
 
 **Putin isn't Russia**
 
-There are many people in Russia who support Putin's agenda. There are many (perhaps a majority?) who don't. 
+There are many people in Russia who support Putin's agenda. The levels of state propaganda in both Russia and Belorus are such that many ordinary citizens believe that Russians are invading to "liberate" Ukraine. 
 
-Many of my friends who oppose the war are afraid to speak up, afraid to go to protests, afraid to post on social media due to risk of prosecution. Russia is almost at the level of USSR level of freedom of speech supression. People are arrested for laying flowers at monuments TODO. Fired for speaking out against the war TODO. The remaining independent media has been shut down over the conflict coverage TODO. 
+Still, there are many people in Russia who do not support Putin, or this war. 
+
+Many of my friends who oppose the war are afraid to speak up, afraid to go to protests, afraid to post on social media due to risk of prosecution. Russia is almost at the former USSR level of freedom of speech supression. People are arrested for laying flowers at monuments TODO. Fired for speaking out against the war TODO. The last remaining independent media has been shut down over the conflict coverage TODO. 
 
 Even those who aren't in Russia are keeping quiet because their families are begging them to. Do you ever wonder what it would be like to fear an arrest over speaking up? Over someone else in your family speaking up? 
 
@@ -78,6 +82,8 @@ You are in North America, Europe, or Asia, your family is safe and Putin isn't a
 3. History tells us that dictators are unlikely to stop while winning
 
 # How you can help
+
+Please don't walk away. Do something right now, however little, to support Ukraine. 
 
 ## Donate
 
@@ -94,17 +100,25 @@ Razom for Ukraine TODO
 Both of these are registered 501(c)(3) organizations, which are tax-exempt in the US. Both are registered with Benevity - you check if your company offers a donation match.
 
 ### Additional verified links
-TODO
-
-TODO one more action item
 
 ## Speak up
 
-Share information on social media. Go to protests. Carry a Ukrainian flag. TODO more specific actions
+Stay informed. Share verified information on social media. Go to pro-Ukrainian rallies. Carry a Ukrainian flag. 
 
 Your support matters.
 
-I traveled twice through the US while carrying a Ukrainian flag. Only two folks have stopped me to express support. Do you know how alone I feel looking at people celebrating life while my country is dying alone?
+Every one of my Ukrainian friends, both those in Ukraine who are under fire, and those who are currently in other countries has shared that they feel that the world has abandoned us. 
 
-TODO: Action call out
-Donate right now. Don't walk away. 
+Your support matters. 
+
+## Reach out to your Government
+
+There are many, many things Western countries can do to defend Ukraine. Please find your local government official and 
+
+1. Ask them to help Ukraine with funds, armor, weapons, food and supplies.
+2. Ask them to create a no-fly zone over Ukraine
+3. Ask them to aid Ukraine with troops. 
+4. Ask that they freeze Russian funds and assets. 
+
+If you’re in the US you can use the [weStandWithUkraine](https://supportukrainenow.org/influence-authorities-directly) bot on Telegram to find your local representatives and how to communicate with them.
+
