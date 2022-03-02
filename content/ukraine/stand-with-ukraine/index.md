@@ -1,7 +1,7 @@
 ---
 title: "Stand with Ukraine"
 date: 2022-03-02T00:00:00-05:00
-draft: true
+draft: false
 summary: "Stand with Ukraine"
 summaryImage: "summary.jpg"
 hideLastModified: false
