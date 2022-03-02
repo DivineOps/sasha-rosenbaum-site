@@ -2,5 +2,5 @@
 title: "Podcasts"
 draft: false
 hideLastModified: true
-showInMenu: true
+showInMenu: false
 ---

@@ -5,6 +5,7 @@ draft: false
 summary: "Stand with Ukraine"
 summaryImage: "summary.jpg"
 hideLastModified: false
+showInMenu: true
 ---
 
 <img src="summary.jpg" alt="Stand with Ukraine"  />
