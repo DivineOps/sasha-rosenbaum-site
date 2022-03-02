@@ -81,3 +81,6 @@ Share information on social media. Go to protests. Carry a Ukrainian flag. TODO 
 Your support matters.
 
 I traveled twice through the US while carrying a Ukrainian flag. Only two folks have stopped me to express support. Do you know how alone I feel looking at people celebrating life while my country is dying alone?
+
+TODO: Action call out
+Donate right now. Don't walk away. 
