@@ -129,3 +129,4 @@ There are many, many things Western countries can do to defend Ukraine. Please f
 
 If you’re in the US you can use the [weStandWithUkraine](https://supportukrainenow.org/influence-authorities-directly) bot on Telegram to find your local representatives and how to communicate with them.
 
+You can also read the [post by the DevOpsDays](https://devopsdays.org/blog/2022/03/02/devopsdays-stands-with-ukraine/) organization, with more information and resources provided in large part by the DevOpsDays Kyiv community. 
