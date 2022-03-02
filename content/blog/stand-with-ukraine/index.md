@@ -29,7 +29,7 @@ As I write these words, I am terrified that at any moment Putin may win. If he d
 
 This war is much bigger than a single country invasion. 
 
-In his [speech](https://www.nytimes.com/2022/02/24/world/europe/putin-ukraine-speech.html) prior to the invasion of Ukraine, Putin said that the break of USSR was "the greatest geo-political catasrophe or the 21 century" TODO and that he wants the NATO borders back at the 9X level TODO. 
+In his [speech](https://www.vox.com/policy-and-politics/2022/2/23/22945781/russia-ukraine-putin-speech-transcript-february-22) prior to the invasion of Ukraine, Putin said that the break of USSR was "the greatest geo-political catasrophe or the 21 century" and that he wants the NATO borders back at the 9X level. 
 
 Leaked information suggests that Putin intends to instate a puppet pro-Russian government over Ukraine. If he succeeds, there will no longer be anything that the West can do to stop him from forming a new version of USSR. 
 
@@ -49,15 +49,16 @@ History shows us that dictators don't stop when they are winning. If the world d
 
 **This is a broken promise** 
 
-When the Soviet Union broke down, Ukraine had its own nuclear weapons. These weapons were dismantled under a guarantee of the United States, X and Russia to guarantee peace in Ukraine. TODO
+When the Soviet Union broke down, Ukraine had its own nuclear weapons. These weapons were dismantled under a guarantee of the United States, the United Kingdom, Russia, et al to [peace in Ukraine](https://theintercept.com/2022/02/27/ukraine-nuclear-weapons-russia-invasion/).
 
 I was there. A family friend was working as a translator for the American workers in Dnipro whose job it was to oversee the disarmment. I think even as a kid I questioned if anyone would really come to aid us if we were under attack. I never once thought that the attack would be by our brothers and sisters...
 
 
 **Ukraine cannot hold against Russian and Belorussian military without help**
+
 The world leaders keep giving inspirational speeches about the tough people of Ukraine. 
 
-No matter how tough Ukrainians are, or how committed they are to their freedom, they do not have enough human resources, funds, or military equipment to hold off Russia and Belorus joint invasion. 
+No matter how tough Ukrainians are, or how committed they are to their freedom, they do not have enough human resources, funds, or military equipment to hold off Russia and Belarus joint invasion. 
 
 Economic sanctions are helpful. But they aren't sufficient to save Ukraine from demolition today. 
 
@@ -84,17 +85,22 @@ You are in North America, Europe, or Asia, your family is safe and Putin isn't a
 There are many charities and support organizations that are doing life saving work right now in Ukraine. Some of them were created in the course of the past few days as the country rallies to support military and civilians. If you have personal friends in need of assistance or friends running aid organizations, please donate directly. Otherwise, I am highlighting a few verified organizations. 
 
 ### National Bank of Ukraine Armed Forces Fund
-Ukrainian armed forces are lacking basic equipment, clothing, weapons, food. The only way Ukraine can hold is by reinforcing the military. The NBU had spun up a special fundraising account for Ukrainian armed forces which is open to PayPal donations and wire transfers. Donate here TODO
+Ukrainian armed forces are lacking basic equipment, clothing, weapons, food. The only way Ukraine can hold is by reinforcing the military. The NBU had spun up a special fundraising account for Ukrainian armed forces which is open to PayPal donations and wire transfers. Donate [here](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi).
 
 ### Humanitarian aid charities
-Nova Ukraine is a humanitarian aid organization TODO
+[Nova Ukraine](https://novaukraine.org/donate/) - A non-profit organization dedicated to raising awareness about Ukraine in the US and throughout the world and providing humanitarian aid to Ukraine.
 
-Razom for Ukraine TODO
+[Razom for Ukraine](https://razomforukraine.org/donate/) - Razom, which means “together” in Ukrainian, believes deeply in the enormous potential of dedicated volunteers around the world united by a single goal: to unlock the potential of Ukraine.
 
 Both of these are registered 501(c)(3) organizations, which are tax-exempt in the US. Both are registered with Benevity - you check if your company offers a donation match.
 
 ### Additional verified links
-TODO
+
+[Help Ukraine Win](https://helpukrainewin.org/) - By air, land, and sea, Russia has launched a devastating attack on Ukraine,
+a European democracy of 44 million people. Help us stop Russian aggression!  How you can help as a foreigner.
+
+
+[Support Ukraine Now](https://supportukrainenow.org/) - Real ways you can help Ukraine as a foreigner, Official funds, requests, materials (doc updated live, hourly).
 
 TODO one more action item
 
