@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-date: 2021-04-18T00:00:00-05:00
+title: "Stand with Ukraine"
+date: 2022-03-02T00:00:00-05:00
 draft: false
 showInMenu: true
 hideLastModified: true
