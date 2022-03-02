@@ -9,6 +9,7 @@ showInMenu: true
 ---
 
 <img src="summary.jpg" alt="Stand with Ukraine"  />
+<br><a style="font-size: small;" href="https://www.flickr.com/photos/mmmswan/51909048430">Image by Michael Swan</a>
 
 This post is my voice, my personal view of the current situation in Ukraine. Even though I am personally safe, I am experiencing some degree of fear posting these words. I am free to speak my mind because I live in a democratic country, and I don't have close relatives in Russia who could be threatened to silence me. Many of my friends are not so lucky.
 
