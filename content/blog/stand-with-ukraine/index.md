@@ -70,7 +70,7 @@ There are many people in Russia who support Putin's agenda. The levels of state 
 
 Still, there are many people in Russia who do not support Putin, or this war. 
 
-Many of my friends who oppose the war are afraid to speak up, afraid to go to protests, afraid to post on social media due to risk of prosecution. Russia is almost at the former USSR level of freedom of speech supression. People are arrested for laying flowers at monuments TODO. Fired for speaking out against the war TODO. The last remaining independent media has been shut down over the conflict coverage TODO. 
+Many of my friends who oppose the war are afraid to speak up, afraid to go to protests, afraid to post on social media due to risk of prosecution. Russia is almost at the former USSR level of freedom of speech supression. Russian authorities are [arresting children for laying flowers at the Ukrainian embassy](https://www.vice.com/en/article/y3vxyk/russia-police-arrest-children-ukraine-protest). [Prosecuting civilians for speaking out against the war](https://news.artnet.com/art-world/russian-cultural-workers-call-for-putins-resignation-2079442). The last remaining [independent media, Dozhd (TV Rain) and Ekho Moskvy has been shut down over the Ukrainian conflict coverage](https://www.vice.com/en/article/v7dx5x/russian-media-dozhd-tv-shutdown). 
 
 Even those who aren't in Russia are keeping quiet because their families are begging them to. Do you ever wonder what it would be like to fear an arrest over speaking up? Over someone else in your family speaking up? 
 

@@ -114,11 +114,11 @@ params:
     # this options let you specify the text of the link to the homepage
     linkText: "Home"  
     # option to specify the title in the homepage
-    title: Sasha Rosenbaum
+    title: Stand with Ukraine
     # option to specify the subtitle in the homepage
-    subtitle: Sr. Manager, Managed OpenShift Black Belts, Red Hat
+    subtitle: Today I am begging you to please [Stand with Ukraine](/blog/stand-with-ukraine)
     # option to specify image in the homepage
-    image: "/images/Sasha_Rosenbaum_Square.jpg" # worker.svg 
+    image: "/images/stand-with-ukraine.jpg" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
