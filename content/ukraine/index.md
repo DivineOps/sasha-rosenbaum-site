@@ -16,11 +16,12 @@ This post is my voice, my personal view of the current situation in Ukraine. Eve
 
 As of today, the Russian military is leading an all-out war on Ukraine. They have invaded Ukraine on [multiple fronts](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine#24_February), and are [bombing cities all over the country](https://en.wikipedia.org/wiki/List_of_military_engagements_during_the_2022_Russian_invasion_of_Ukraine). Russia is using [Belarus as a base and is aided by Belarusian troops](https://kyivindependent.com/national/sources-belarus-to-join-russias-war-on-ukraine-within-hours/).
 
-[Civilian targets](https://www.washingtonpost.com/world/2022/03/01/ukraine-russia-babyn-yar/) all over Ukraine are under fire. People spend days in [makeshift bomb shelters](https://www.npr.org/2022/02/28/1083421199/those-who-havent-fled-ukraine-hunker-down-in-make-shift-bomb-shelters). [Civilians are killed](https://www.theguardian.com/world/2022/mar/02/children-teachers-civilian-casualties-of-the-ukraine-conflict). 
+[Civilian targets](https://www.washingtonpost.com/world/2022/03/01/ukraine-russia-babyn-yar/) all over Ukraine are under fire. People spend days in [makeshift bomb shelters](https://www.npr.org/2022/02/28/1083421199/those-who-havent-fled-ukraine-hunker-down-in-make-shift-bomb-shelters). [Civilians are killed](https://www.theguardian.com/world/2022/mar/02/children-teachers-civilian-casualties-of-the-ukraine-conflict). (You can click on the map below to go to the live updated site)
+
+
+[<img src="map-ua.png" alt="Stand with Ukraine"  width="500px"/>](https://liveuamap.com/)
 
 Even with many [EU borders open to Ukrainian refugees](https://www.washingtonpost.com/world/2022/02/27/ukraine-refugees-photos-videos/), most people cannot flee the country.  
-
-[![map of recent attacks](map-ua.png)](https://liveuamap.com/)
 
 There are Over 40 million people in Ukraine. 40 million people under fire.
 
