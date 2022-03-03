@@ -29,7 +29,7 @@ As of today, the Russian military is leading an all-out war on Ukraine. They hav
 [Civilian targets](https://www.washingtonpost.com/world/2022/03/01/ukraine-russia-babyn-yar/) all over Ukraine are under fire. People spend days in [makeshift bomb shelters](https://www.npr.org/2022/02/28/1083421199/those-who-havent-fled-ukraine-hunker-down-in-make-shift-bomb-shelters). [Civilians are killed](https://www.theguardian.com/world/2022/mar/02/children-teachers-civilian-casualties-of-the-ukraine-conflict). (You can click on the map below to go to the live updated site)
 
 
-[<img src="map-ua.png" alt="Stand with Ukraine"  width="500px"/>](https://liveuamap.com/)
+[<img src="map-ua.png" alt="Stand with Ukraine"  style="max-width: 500px"/>](https://liveuamap.com/)
 
 Even with many [EU borders open to Ukrainian refugees](https://www.washingtonpost.com/world/2022/02/27/ukraine-refugees-photos-videos/), most people cannot flee the country.
 
@@ -59,7 +59,7 @@ Yet NATO is doing NOTHING.
 
 The West is using Ukraine as a live shield, letting Ukrainian women and children die. All the articles published on why NATO isn't creating a no-fly zone over Ukraine can be roughly summarized as ["NATO is afraid of Russia"](https://abcnews.go.com/International/ukraine-fly-zone-option-experts/story?id=83164297)
 
-<img src="no-fly-zone.jpeg" alt="No Fly Zone"  />
+<img src="no-fly-zone.jpeg" alt="No Fly Zone" style="max-width: 500px"  />
 
 History shows us that dictators don't stop while winning. If the world does nothing to save Ukraine, what's to stop Putin from using the same nuclear threat to invade Latvia, Lithuania or Estonia, Georgia or Kazakhstan, or any other of the former USSR republics?
 
@@ -139,7 +139,7 @@ Your support matters.
 
 Companies can help in many ways, from matching donations, to ceizing business with Russia, to donating funds, to employing Ukrainians.
 
-[GitHub is taking a brave action to support Ukraine](). Reach out to your company leadership and ask them to follow suit.
+[GitHub is taking a brave action to support Ukraine](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/). Reach out to your company leadership and ask them to follow suit.
 
 Some geo-political situations are morally ambiguous. Not this one. Ask your company to be on the right side of history.
 
