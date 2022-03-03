@@ -44,11 +44,13 @@ I am not a country leader. I am not privvy to classified intel. I am guessing th
 
 I have no other explanation for what is happening. 
 
-NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the technology to intercept Russian attacks without deploying a single soldier. 
+NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the technology to deter or disorient Russian attackers without deploying a single soldier. 
 
 Yet NATO is doing NOTHING. 
 
-The West is using Ukraine as a live shield, letting Ukrainian women and children die. 
+The West is using Ukraine as a live shield, letting Ukrainian women and children die. All the articles published on why NATO isn't creating a no-fly zone over Ukraine can be roughly summarized as ["NATO is afraid of Russia"](https://abcnews.go.com/International/ukraine-fly-zone-option-experts/story?id=83164297)
+
+<img src="no-fly-zone.jpeg" alt="No Fly Zone"  />
 
 History shows us that dictators don't stop while winning. If the world does nothing to save Ukraine, what's to stop Putin from using the same nuclear threat to invade Latvia, Lithuania or Estonia, Georgia or Kazakhstan, or any other of the former USSR republics? 
 
@@ -82,8 +84,8 @@ Even those who aren't in Russia are keeping quiet because their families are beg
 You are in North America, Europe, or Asia, your family is safe and Putin isn't at your door. Why should you care? 
 
 1. Innocent people are dying
-2. If Putin succeeds at reinstating USSR, the Western world is facing another cold war
-3. History tells us that dictators are unlikely to stop while winning
+2. If Putin succeeds at reinstating USSR, the Western world will be facing an isolated, volatile leader with access to Nuclear weapons for the foreseable future
+3. History tells us that dictators do not stop while winning
 
 # How you can help
 
@@ -93,17 +95,18 @@ Please don't walk away. Do something right now, however little, to support Ukrai
 
 There are many charities and support organizations that are doing life saving work right now in Ukraine. Some of them were created in the course of the past few days as the country rallies to support military and civilians. If you have personal friends in need of assistance or friends running aid organizations, please donate directly. Otherwise, I am highlighting a few verified organizations. 
 
-### National Bank of Ukraine Armed Forces Fund
+***National Bank of Ukraine Armed Forces Fund***
+
 Ukrainian armed forces are lacking basic equipment, clothing, weapons, food. The only way Ukraine can hold is by reinforcing the military. The NBU had spun up a special fundraising account for Ukrainian armed forces which is open to PayPal donations and wire transfers. Donate [here](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi).
 
-### Humanitarian aid charities
+***Humanitarian aid charities***
 [Nova Ukraine](https://novaukraine.org/donate/) - A non-profit organization dedicated to raising awareness about Ukraine in the US and throughout the world and providing humanitarian aid to Ukraine.
 
 [Razom for Ukraine](https://razomforukraine.org/donate/) - Razom, which means “together” in Ukrainian, believes deeply in the enormous potential of dedicated volunteers around the world united by a single goal: to unlock the potential of Ukraine.
 
-Both of these are registered 501(c)(3) organizations, which are tax-exempt in the US. Both are registered with Benevity - you check if your company offers a donation match.
+Both of these are registered 501(c)(3) organizations, which are tax-exempt in the US. Both are registered with Benevity - you can check if your company offers a donation match.
 
-### Additional verified links
+***Additional verified donation links***
 
 [Help Ukraine Win](https://helpukrainewin.org/) - By air, land, and sea, Russia has launched a devastating attack on Ukraine,
 a European democracy of 44 million people. Help us stop Russian aggression!  How you can help as a foreigner.
@@ -115,21 +118,39 @@ a European democracy of 44 million people. Help us stop Russian aggression!  How
 
 Stay informed. Share verified information on social media. Go to pro-Ukrainian rallies. Carry a Ukrainian flag. 
 
+You can follow English-language sources such as [Kyiv Independent](https://twitter.com/KyivIndependent), president [Volodymyr Zelensky](https://twitter.com/ZelenskyyUa), and others on [this list](https://twitter.com/i/lists/1497538910792130560) to stay informed. 
+
 Your support matters.
 
 Every one of my Ukrainian friends, both those in Ukraine who are under fire, and those who are currently in other countries has shared that they feel that the world has abandoned us. 
 
 Your support matters. 
 
-## Reach out to your Government
+## Ask your company to support Ukraine
+
+Companies can help in many ways, from matching donations, to ceizing business with Russia, to donating funds, to employing Ukrainians. 
+
+[GitHub is taking a brave action to support Ukraine](). Reach out to your company leadership and ask them to follow suit. 
+
+Some geo-political situations are morally ambiguous. Not this one. Ask your company to be on the right side of history.
+
+## Ask your Government to support Ukraine
 
 There are many, many things Western countries can do to defend Ukraine. Please find your local government official and 
 
-1. Ask them to help Ukraine with funds, armor, weapons, food and supplies.
-2. Ask them to create a no-fly zone over Ukraine
-3. Ask them to aid Ukraine with troops. 
-4. Ask that they freeze Russian funds and assets. 
+- Ask them to create a no-fly zone over Ukraine 
+- Ask them to accept the [Ukrainian membership application to the EU](https://www.nationalturk.com/en/ukraine-applies-for-eu-membership/)
+- Ask them to [support Ukraine in joining NATO](https://www.businessinsider.com/ukraine-is-not-a-nato-member-what-it-takes-to-join-2022)
+- Ask them to help Ukraine with funds, armor, weapons, food and supplies.
+- Ask them to aid Ukraine with troops. 
+- Ask that they freeze Russian funds and assets. 
 
 If you’re in the US you can use the [weStandWithUkraine](https://supportukrainenow.org/influence-authorities-directly) bot on Telegram to find your local representatives and how to communicate with them.
 
 You can also read the [post by the DevOpsDays](https://devopsdays.org/blog/2022/03/02/devopsdays-stands-with-ukraine/) organization, with more information and resources provided in large part by the DevOpsDays Kyiv community. 
+
+In May 2019, me and a number of technical folks from all over the world were in Ukraine to speak with the Ukrainian technical community at DevOpsDays Kyiv. If Putin wins, none of us can step foot in Ukraine ever again. If Putin wins, none of us can work with the Ukrainian tech community members ever again. If Putin wins, our brave friends in the DevOpsDays, Kubernetes and other technical communities may be jailed or killed for fighting the Russian invasion.  
+
+Please help me save my home. 
+
+<img src="vyshyvanki.jpg" alt="DevOpsDays Kyiv"  />
