@@ -170,6 +170,6 @@ You can also read the [post by the DevOpsDays](https://devopsdays.org/blog/2022/
 
 In May 2019, me and a number of technical folks from all over the world were in Ukraine to speak with the Ukrainian technical community at DevOpsDays Kyiv. If Putin wins, none of us can step foot in Ukraine ever again. If Putin wins, none of us can work with the Ukrainian tech community members ever again. If Putin wins, our brave friends in the DevOpsDays, Kubernetes and other technical communities may be jailed or killed for fighting the Russian invasion.
 
-Please help me save my home.
+Please help save my home.
 
 <img src="vyshyvanki.jpg" alt="DevOpsDays Kyiv"  />
