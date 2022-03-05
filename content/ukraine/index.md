@@ -3,7 +3,7 @@ title: "Stand with Ukraine"
 date: 2022-03-05T00:00:00-05:00
 draft: false
 showInMenu: true
-hideLastModified: true
+hideLastModified: false
 ---
 
 <img src="summary.jpg" alt="Stand with Ukraine"  />
