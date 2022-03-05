@@ -1,6 +1,6 @@
 ---
 title: "Stand with Ukraine"
-date: 2022-03-03T11:00:00-05:00
+date: 2022-05-03T11:00:00-05:00
 draft: false
 summary: "Stand with Ukraine"
 summaryImage: "summary.jpg"
@@ -47,13 +47,9 @@ Leaked information suggests that Putin intends to instate a puppet pro-Russian g
 
 **The world leaders are abandoning Ukraine to fight alone**
 
-Putin is holding the world hostage with his finger on the nuclear button.
+[Putin is holding the world hostage with his finger on the nuclear button.](https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-05-22/h_7131cef7390306e36e10475da7d4cf30)
 
-I am not a country leader. I am not privvy to classified intel. I am guessing that somewhere behind the scenes Russia is threatening the world leaders that they will unleash nuclear weapons if any other country provides military aid to Ukraine.
-
-I have no other explanation for what is happening.
-
-NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the technology to deter or disorient Russian attackers without deploying a single soldier.
+NATO has the power to create an iron dome above Ukraine, preventing air strikes. NATO has the technology to deter or disorient Russian attackers without deploying a single soldier. As Gary Kasparov points out in [this thread](https://twitter.com/Kasparov63/status/1499439820363468802?s=20&t=GrmEmsXk8i1tWl8HPphBbw), there are many actions NATO allies can take to support Ukraine that do not involve boots on the ground. 
 
 Yet NATO is doing NOTHING.
 
@@ -88,6 +84,18 @@ Many of my friends who oppose the war are afraid to speak up, afraid to go to pr
 
 Even those who aren't in Russia are keeping quiet because their families are begging them to. Do you ever wonder what it would be like to fear an arrest over speaking up? Over someone else in your family speaking up?
 
+**Do not let history repeat itself**
+
+The longer the war continues, the more Putin consolidates his power in Russia. As the ountry isolation escalates, Putin will face mounting internal pressure to stop the war. The only way he can remain in power is by squishing dissent. 
+
+Russia has just passed another law to imprison [reporters covering the war](https://www.cbsnews.com/news/russia-ukraine-news-war-journalists-prison-sentences/). Russia already has laws against [public demonstrations](https://www.pressherald.com/2022/02/25/russian-authorities-arrest-hundreds-of-protesters-as-anti-war-demonstrations-grow/) and ["disrespecting the government"](https://www.bbc.com/news/world-europe-47488267) that are used to jail ordinary citizens.
+
+History has seen this playbook many times before. The opposition in sent to jails. The unscrupulous aids who are willing to murder and imprison their own brothers rise to power. 
+
+The more war crimes are committed, the easier it becomes to commit even more atrocities. 
+
+The longer Putin remains in power, the more totalitarian the entire Russian government will become. And this is the government holding the nukes over everyone's head.
+
 # Why you should care
 
 You are in North America, Europe, or Asia, your family is safe and Putin isn't at your door. Why should you care?
@@ -102,11 +110,13 @@ Please don't walk away. Do something right now, however little, to support Ukrai
 
 ## Donate
 
-There are many charities and support organizations that are doing life saving work right now in Ukraine. Some of them were created in the course of the past few days as the country rallies to support military and civilians. If you have personal friends in need of assistance or friends running aid organizations, please donate directly. Otherwise, I am highlighting a few verified organizations.
+1. If you personally know people or organizations in Ukraine, please donate directly to them. Many civilians need help, and hundreds of new volunteer organizations created over the past 10 days need financial resources. It will take time for any other funds to reach them, so if you personally know folks who need help please help directly.
+
+2. If you are able, please donate to Ukraine's Armed Forces (first link below). It is not possible for public companies and volunteer organizations to donate to military, but they can donate to humanitarian aid. But Ukraine cannot hold without its military. Hence, please encourage your company to donate to humanitarian aid, and use your personal funds to donate to military. 
 
 ***National Bank of Ukraine Armed Forces Fund***
 
-Ukrainian armed forces are lacking basic equipment, clothing, weapons, food. The only way Ukraine can hold is by reinforcing the military. The NBU had spun up a special fundraising account for Ukrainian armed forces which is open to PayPal donations and wire transfers. Donate [here](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi).
+Ukrainian armed forces are lacking basic equipment, clothing, weapons, food. The only way Ukraine can hold is by reinforcing the military. The NBU had spun up a special fundraising account for Ukrainian armed forces which is open to PayPal donations and wire transfers. [Donate to NBU here](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi).
 
 ***Humanitarian aid charities***
 [Nova Ukraine](https://novaukraine.org/donate/) - A non-profit organization dedicated to raising awareness about Ukraine in the US and throughout the world and providing humanitarian aid to Ukraine.
@@ -144,6 +154,8 @@ Companies can help in many ways, from matching donations, to ceizing business wi
 Some geo-political situations are morally ambiguous. Not this one. Ask your company to be on the right side of history.
 
 ## Ask your Government to support Ukraine
+
+Please feel free to use this [Template Letter to Government Representative](https://docs.google.com/document/d/1V2iMwRNEcS7zL5eNwbOeFZXFQiDBykfx93QaxRSrJlw/edit?usp=sharing)
 
 There are many, many things Western countries can do to defend Ukraine. Please find your local government official and
 
