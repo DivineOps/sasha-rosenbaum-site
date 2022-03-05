@@ -1,11 +1,9 @@
 ---
 title: "Stand with Ukraine"
-date: 2022-05-03T00:00:00-05:00
+date: 2022-03-05T00:00:00-05:00
 draft: false
-summary: "Stand with Ukraine"
-summaryImage: "summary.jpg"
-hideLastModified: false
 showInMenu: true
+hideLastModified: true
 ---
 
 <img src="summary.jpg" alt="Stand with Ukraine"  />
