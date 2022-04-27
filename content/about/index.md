@@ -9,7 +9,7 @@ showInMenu: true
 
 # Short Bio
 
-Sasha is a Sr. Manager on the Managed OpenShift Black Belt (MOBB) team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud.
+Sasha is a Director of the Cloud Services Black Belt team at Red Hat, where she is helping enterprise customers successfully migrate to Managed OpenShift on customers’ favorite public cloud.
 
 In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author.
 
