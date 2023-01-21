@@ -114,11 +114,11 @@ params:
     # this options let you specify the text of the link to the homepage
     linkText: "Home"  
     # option to specify the title in the homepage
-    title: Stand with Ukraine
+    title: Exploring the future of work
     # option to specify the subtitle in the homepage
-    subtitle: Today, I am begging you to please <a href="/ukraine">Stand with Ukraine</a>
+    subtitle: Learning new things at <a href="https://www.ergonautic.ly" target="_blank">Ergonautic</a>
     # option to specify image in the homepage
-    image: "/images/stand-with-ukraine.jpg" # worker.svg 
+    image: "/images/first-podcast-smiles.png" 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
