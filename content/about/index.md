@@ -9,9 +9,9 @@ showInMenu: true
 
 # Short Bio
 
-Sasha is a Director of the Cloud Services Black Belt team at Red Hat, where she is helping enterprise customers successfully migrate to Managed OpenShift on customers’ favorite public cloud.
+Sasha is Principal at a new venture, <a href="https://www.ergonautic.ly/" target="_blank">Ergonautic</a>
 
-In her career, Sasha has worked in development, operations, consulting, and cloud architecture. Sasha is an organizer of DevOpsDays Chicago, a chair of DeliveryConf, and a published author.
+With a degree in Computer Science, an MBA, and two decades of experience across development, operations, product management, and technical sales, Sasha Rosenbaum brings a unique perspective to optimizing the organizational flow of work, bridging gaps with empathy and insight.
 
 <hr>
 
