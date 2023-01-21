@@ -114,13 +114,13 @@ params:
     # this options let you specify the text of the link to the homepage
     linkText: "Home"  
     # option to specify the title in the homepage
-    title: Exploring the future of work
+    title: The future of work
     # option to specify the subtitle in the homepage
-    subtitle: Learning new things at <a href="https://www.ergonautic.ly" target="_blank">Ergonautic</a>
+    subtitle: Learning new things and exploring ways to make work better for humans in Business and IT at <a href="https://www.ergonautic.ly" target="_blank">Ergonautic</a>
     # option to specify image in the homepage
     image: "/images/first-podcast-smiles.png" 
     # option to specify the width of the image in the homepage
-    imageWidth: 500px
+    imageWidth: 1000px
 
   externalLinks:
     - title: Speaking
