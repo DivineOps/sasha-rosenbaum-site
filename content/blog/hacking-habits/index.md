@@ -21,67 +21,81 @@ First, the premise.
 
 # B = MAP
 According to Fogg, behavior can be expressed as a simple formula.
-B = MAP
-Meaning that behavior equals motivation + ability + prompt.
 
-Here is a revelation: when we are debugging the behavior, we are doing it  wrong! More specifically, we are approaching it in the wrong order. 
+<img src="/images/blog/hacking-habits/b-equals-map.webp" alt="BJ Fogg Behavior Formula" width="850px" />
 
-I have lived in 3 different countries with very different cultures. In every single one, the common wisdom tells you that to change behavior, you need to affect motivation. Whether you are trying to influence yourself, your team at work, or your child, the primary strategy is to offer either carrot (promise a reward) or a stick (threaten a punishment) to increase someone’s motivation to do the behavior. 
+By now you may have encountered the idea that behavior happens when motivation meets ability and prompt.
 
-Worse than that. We escalate from labeling an action, to labeling a habit, to labeling an identity very quickly. How quickly does your personal self-talk go from “I didn’t exercise today” to “I can never get myself to exercise” to “I’m a f@t f#ck”? The further you go down this path, the harder it is to come back.
+Here is a **revelation**: when debugging behavior, we are approaching it in the **wrong order**. 
+
+How could I possibly know in what order _you_ approach debugging behavior?
+
+I have lived in 3 different countries with very different cultures. In every single one, the common wisdom is that to change behavior, you need to affect motivation. Whether you are trying to influence yourself, your team at work, or your child, the primary strategy is to offer either carrot (a reward) or a stick (a punishment) to increase someone’s motivation to do the behavior. 
+
+If you've ever struggled to start a habit of exercising daily, or get your team at work to write Unit Tests, or influence your child to clean their room, you know from experience that this strategy doesn't work very well.
+
+Worse than that. We escalate from labeling an action, to labeling a habit, to labeling someone's identity very fast. How quickly does your personal self-talk go from “I didn’t exercise today” to “I can never get myself to exercise” to “I’m a f@t f#ck”? The further you go down this path, the harder it is to come back.
 
 
-# The Action line
-The Action Line is the chart showing 
+# The Action Line
+Dr. Fogg suggests explaning the relationship between the three elements of behavior using the Action Line graphic.
 
-Notice the asymptotic tails. The easier the behavior is to do, the less motivation you need to do it. The more motivation you have to do the behavior, the more challenges you are able to overcome.
+<img src="/images/blog/hacking-habits/action-line.webp" alt="BJ Fogg Action Line Chart" width="500px" style="float: right;"/>
 
-Motivation, however, is a fickle mistress. A much better strategy, researched by BJ Fogg and others, is to start debugging the behavior at the other end of the B = MAP formula. 
 
-Can’t get yourself to start the desired behavior? Design a good prompt. 
+Notice the asymptotic tails. The easier the behavior is to do, the less motivation you need to do it. The higher your motivation, the harder you will be willing to work to do the behavior.
 
-Design a reminder that matches the location and TODO of the behavior. Fit it into your existing routine. Often, this is all it takes.
+Motivation, however, is a fickle mistress. A much better strategy, researched by BJ Fogg and other scientists, is to start debugging the behavior at the other end of the B = MAP formula. 
 
-Next up is ability.
+There are a lot more details, examples, and suggestions in the book that I could never do justice in a short blog, but here is the gist:
 
-Have a good prompt but still unable to do the behavior? Increase your physical or mental ability to perform it. Don’t trust yourself to overcome hurdles. Purposely reduce any friction to do the behavior. Make it easy to do the right thing. 
+1. Can’t get yourself to start the desired behavior? Design a good **prompt**. 
 
-This is also where the habits being “tiny” comes in. It is a lot easier to do a single wall pushup than 20 good form floor pushups. BJ Fogg suggests that you should aim for the “tiny” core habit that you could execute on on your very worst day, a day when you have a toothache, a TODO and your house is on fire. If you are still able to do the behavior on your worst day, you are usually happy to do a much more elaborate version of the behavior on your best. 
+Design a reminder that matches the *location*, *time*, and *context* of the behavior. (no use getting a reminder to start the dishwasher when you aren't even home) Fit it into your existing routine. Often, this is all it takes.
+
+2. Next up is **ability**.
+
+Do you have a great prompt, but are still unable to do the behavior? Increase your physical or mental ability to perform it. Don’t trust yourself to overcome hurdles. Purposefully remove all friction. And, I mean, *all* friction. Make it easy to do the right thing. 
+
+This is also where the habits being “tiny” comes in. 
+
+It is a lot easier to do a single wall pushup than 20 good form floor pushups. Dr. Fogg suggests that you should aim for the “tiny” core habit that you could execute on your very worst day, a day when you have a toothache, a work deadline, and your house is on fire. If you are still able to do the behavior on your worst day, you will usually be happy to do an enhanced version of the same behavior on your best. 
 
 # Celebration
 
-Only the very best books leave me with more than one revelation, and Tiny Habits was one of those. 
+Only the very best books leave me with more than one revelation, and Tiny Habits is one of those. 
 
-As useful as the B = MAP formula has been, the most significant idea in the book for me is the importance of celebration. 
+As useful as the B = MAP formula has been, the most significant idea in the book for me is the importance of **celebration**. 
 
-BJ Fogg points out that as adults, we tend to never celebrate our tiny successes. Worse than that, we dismiss our accomplishments with the mental track of “finally”, or “this is not enough”, or “you should have done this a week ago”. 
+BJ Fogg points out that as adults, we tend to never celebrate our every-day successes. Worse than that, we dismiss our accomplishments with the mental track of “finally”, or “this is barely good enough”, or "I should have done this a week ago”. 
 
-According to Fogg’s research, the key to changing behavior is TODO celebrating success. Every time you do a desired action, no matter how small it seems, celebrate. Spend a moment authentically congratulating yourself on accomplishing a goal. 
+According to Fogg’s research, the key to anchoring the new behavior is celebrating success. Every time you do the desired action, no matter how small it seems, celebrate. Spend a moment **authentically** congratulating yourself on accomplishing a goal (the importance of creating an authentic positive feeling immediately after the behavior is emphasized in the book). 
 
-Seems silly or undeserved? Think about this. If I were training a dog to sit on a sit command, what would it do if instead of giving it a treat for executing the behavior, I’d spank it for “not doing it well enough”? I bet you the dog would avoid the behavior like the plague. 
+Seems silly or undeserved? 
 
-But this is exactly what you do to your “lizard brain” when you tell yourself that “I’m just phoning it in” after a wall push up. At the end of the day, we are simple creatures. If we get discouragement for the wall push up, we aren’t going to take on the harder versions of the behavior. 
+Imagine you were training a puppy to sit on a sit command. What would happen if instead of giving it a treat for sitting down, you would punish it for “not sitting well enough”? I bet you the puppy would avoid the behavior like the plague. 
 
-Just as with the behavior debugging sequence, the common cultural approach seems to be quite wrong here. We are naturally inclined to give ourselves and others negative reinforcements rather than positive ones. Worse than that, we are taught that we can somehow “spoil” people by too much positive feedback. One of the phrases from the book that has really stuck with me is “I change best by feeling good, not by feeling bad”. 
+But this is exactly what you do to your “lizard brain” when you tell yourself that “I’m just phoning it in” after doing a wall push up. At the end of the day, we are simple creatures. If we get discouragement for the wall push up, we aren’t going to take on the harder versions of the habbit. 
 
-Personally, I have taken the idea of celebration a bit further than habit hacking.
+Just as with the behavior debugging sequence, the common cultural approach seems to be quite wrong here. Humans are already naturally inclined to give negative reinforcements more often than positive ones. On top of that, we are taught that we can somehow “spoil” people by giving too much positive feedback. 
 
-The time since the beginning of the pandemic has been personally quite difficult for me, as I know they have been for many of you. One of the things that happened is the general feeling of burn out and overwhelm, not just in work, but in life. I’ve gotten to a point where absolutely everything felt like a chore. 
+One of the quotes I've been using a lot since reading the book is “I change best by feeling good, not by feeling bad”. 
 
-I have decided to test what happens if I celebrate every positive behavior I do, be it a one-time thing or a habit, work or life related, no matter how tiny. Unlike buying yourself a reward dinner, authentic celebration is free, always accessible, and comes with no extra calories. What’s the worst that could happen?
+# A Personal Experiment
+After reading the book, I decided to take the idea of celebration a bit further than habit hacking.
 
-It’s been a few weeks since I’ve read the book, and I can attest to feeling a lot less burnt out. Somehow, it is a lot easier to wipe off the dinner table if you give yourself a pat on the back for doing it. Somehow, everything in life feels lighter and more fun if you celebrate the tiny positive outcomes. 
+My personal and professional life has been quite stressful since the beginning of the pandemic, as I know it has been for so many folks. Usually an optimist, I've been feeling burnt out and overwhelmed. Absolutely everything, from writing an email to making a plate of scrambled eggs felt like another dreadful chore. 
 
-Try it. See if it work for you.
+I have decided to test what happens if I celebrate every positive behavior I do, be it a one-time thing or a habit, at work or at home, no matter how tiny. Unlike buying yourself a reward dinner, **authentic celebration** is free, always accessible, and comes with no extra calories. What’s the worst that could happen?
 
-There are a lot more details, examples, and suggestions in the book that I could never do justice in a short blog. If you are interested in habit-hacking, I highly recommend reading the book. TODO affiliate link?
+It’s been a few weeks since I’ve finished the book, and I can attest to feeling a lot less burnt out. Somehow, it is a lot easier to wipe off the dinner table if you give yourself a pat on the back for doing it. Somehow, everything in life feels lighter and more fun if you celebrate the tiny positive outcomes. 
 
+Try it. See if it works for you.
 
+As Aristotle said, "we are what we repeatedly do". I wish you luck on the journey of designing life through behavior design!
 
+</br>
 
+*Interested in seeing more posts like this? Please let me know on <a href="https://twitter.com/DivineOps" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/sasha-rosenbaum/" target="_blank">LinkedIn</a>*
 
-
-Interested in seeing more articles like this? Please let me know on Twitter or LinkedIn. 
-TODO
-If you have questions or comments, feel free to reach out on Twitter, I am <a href="https://twitter.com/DivineOps" target="_blank">@DivineOps</a>
 
