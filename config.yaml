@@ -161,7 +161,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Sasha Rosenbaum - 2021
+    copyright: Sasha Rosenbaum - 2023
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -210,5 +210,5 @@ languages:
         # github: 
         #   link: username
         #   title: Github
-        copyright: Саша Розенбаум - 2021
+        copyright: Саша Розенбаум - 2023
       
