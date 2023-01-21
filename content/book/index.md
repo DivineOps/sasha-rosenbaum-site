@@ -2,7 +2,7 @@
 title: "Book"
 date: 2019-06-04T21:55:06+01:00
 hideLastModified: true
-showInMenu: false
+showInMenu: true
 draft: false
 ---
 
