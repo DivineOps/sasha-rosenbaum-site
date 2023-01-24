@@ -1,0 +1,5 @@
+<!-- Create a new tab link if href parameter isn't empty -->
+{{ if .Get "href" }} <a href="{{ .Get "href" }}" target="_blank"> {{ .Get "text" }}</a> 
+<!-- Otherwise create a no-op link -->
+{{ else }} <a href="javascript:void(0);"> {{ .Get "text" }}</a> {{ end }}
+
