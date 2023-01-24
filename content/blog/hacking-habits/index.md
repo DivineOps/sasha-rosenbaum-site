@@ -96,6 +96,6 @@ As Aristotle said, "we are what we repeatedly do." I wish you luck on the journe
 
 </br>
 
-*Interested in seeing more posts like this? Please let me know on <a href="https://twitter.com/DivineOps" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/sasha-rosenbaum/" target="_blank">LinkedIn</a>*
+*Interested in seeing more posts like this? Please let me know on {{< new_tab_link href="https://twitter.com/DivineOps" text="Twitter" >}} or {{< new_tab_link href="" text="LinkedIn" >}}*
 
 
