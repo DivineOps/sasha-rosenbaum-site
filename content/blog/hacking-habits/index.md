@@ -8,7 +8,7 @@ summaryImage: "images/b-equals-map.webp"
 hideLastModified: false
 ---
 
-<img src="images/tiny-habits-cover.webp" alt="Tiny Habits Cover" width="250px" style="float: right;"/>
+<!-- <img src="images/tiny-habits-cover.webp" alt="Tiny Habits Cover" width="250px" style="float: right;"/> -->
 
 I have always been fascinated by what BJ Fogg calls "behavior design" and have read quite a few books on it - *The Power of Habit*, *Atomic Habits*, *Nudge*, Allen Carr's *The Easy Way to Control Alcohol*. So far, none came closer to giving me the feeling that I am “hacking the source code” of my own behavior than BJ Fogg’s *Tiny Habits*.
 
