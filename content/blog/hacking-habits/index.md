@@ -34,7 +34,7 @@ I have lived in 3 different countries with very different cultures. In every sin
 
 If you've ever struggled to start a habit of exercising daily, or get your team at work to write Unit Tests, or influence your child to clean their room, you know from experience that this strategy doesn't work very well.
 
-Worse than that, we escalate from labeling an action, to labeling a habit, to labeling someone's identity very fast. How quickly does your personal self-talk go from “I didn’t exercise today” to “I can never get myself to exercise” to “I’m a f@t f#ck”? The further you go down this path, the harder it is to come back.
+Worse than that, we escalate from labeling an action, to labeling a habit, to labeling someone's identity very fast. How quickly does your personal self-talk go from “I didn’t exercise today” to “I can never get myself to exercise” to “I’m a lazy piece of garbage”? The further you go down this path, the harder it is to come back.
 
 
 # The Action Line
