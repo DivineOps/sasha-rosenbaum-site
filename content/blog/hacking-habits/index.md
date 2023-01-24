@@ -13,7 +13,7 @@ hideLastModified: false
  
 <img src="/images/blog/hacking-habits/tiny-habits-cover.webp" alt="Tiny Habits Cover" width="250px" style="float: right;"/>
 
-I have always been fascinated by what BJ Fogg calls "behavior design" and have read quite a few books on it - *The Power of Habit*, *Atomic Habits*, *Nudge*, Allen Carr's *The Easy Way to Control Alcohol*. So far, none came closer to giving me the feeling that I am “hacking the source code” of my own behavior than BJ Fogg’s “Tiny Habits.”
+I have always been fascinated by what BJ Fogg calls "behavior design" and have read quite a few books on it - *The Power of Habit*, *Atomic Habits*, *Nudge*, Allen Carr's *The Easy Way to Control Alcohol*. So far, none came closer to giving me the feeling that I am “hacking the source code” of my own behavior than BJ Fogg’s *Tiny Habits*.
 
 I found lots of good ideas in the book, including two that are causing me to look at human behavior in a new way. The kind of ideas I call ***revelations***
 
@@ -63,7 +63,7 @@ It is a lot easier to do a single wall push-up than 20 good form floor push-ups.
 
 # Celebration
 
-Only the very best books leave me with more than one revelation, and Tiny Habits is one of those. 
+Only the very best books leave me with more than one revelation, and *Tiny Habits* is one of those. 
 
 As useful as the B = MAP formula has been, the most significant idea in the book for me is the importance of **celebration**. 
 
