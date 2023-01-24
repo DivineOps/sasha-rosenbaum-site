@@ -3,11 +3,11 @@ title: "The Anatomy of a Customer Presentation"
 date: 2021-04-18T00:00:00-05:00
 draft: false
 summary: "This post highlights the differences in the anatomy of a customer presentation as compared to a narrative-oriented conference talk."
-#summaryImage: "/images/blog/anatomy-of-customer-presentation/sasha-on-stage.webp"
+summaryImage: "images/sasha-on-stage.webp"
 hideLastModified: false
 ---
 
-<img src="/images/blog/anatomy-of-customer-presentation/sasha-on-stage.webp" alt="Sasha on stage"  />
+<img src="images/sasha-on-stage.webp" alt="Sasha on stage"  />
 
 
 Most speaking advice is written for the kind of presentation you are likely to give at a conference, the kind I will call a "narrative talk". And yet, there is another kind of presentation altogether, the kind I will call a "customer presentation". If you are just starting out in Technical Sales or Developer Relations, you might think that these two are one and the same, but they are distinctly different.
@@ -161,11 +161,11 @@ Of course not! What your slides look like depends on the goal your slideware is 
 
 This is a typical slide for me at a conference talk:
 
-<img src="/images/blog/anatomy-of-customer-presentation/conference-talk-slide-example.webp" alt="conference talk slide example" width="750px" />
+<img src="images/conference-talk-slide-example.webp" alt="conference talk slide example" width="750px" />
 
 This, on the other hand, is an example of the executive summary slide from Nancy Duarte’s excellent book “DataStory: Explain Data and Inspire Action Through Story”:
 
-<img src="/images/blog/anatomy-of-customer-presentation/executive-summary-slidedoc-nancy-duarte.webp" alt="Executive Summary Slidedoc Nancy Duarte" width="750px" />
+<img src="images/executive-summary-slidedoc-nancy-duarte.webp" alt="Executive Summary Slidedoc Nancy Duarte" width="750px" />
 
 
 Why the difference? The second slide is not just a presentation, it is a Slidedoc.
@@ -188,7 +188,7 @@ Customer presentations are very different; they are all about starting a convers
 
 Whew, you made it to the end of a long post! You deserve a cookie! 
 
-<img src="/images/blog/anatomy-of-customer-presentation/fortune-cookie.webp" alt="fortune cookie" width="250px" />
+<img src="images/fortune-cookie.webp" alt="fortune cookie" width="250px" />
 
 {{< line_break >}}
 *Interested in seeing more posts like this? Please let me know on {{< new_tab_link href="https://twitter.com/DivineOps" text="Twitter" >}} or {{< new_tab_link href="https://www.linkedin.com/in/sasha-rosenbaum/" text="LinkedIn" >}}* 
