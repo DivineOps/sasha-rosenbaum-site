@@ -4,6 +4,7 @@ date: 2021-07-10T00:00:00-05:00
 draft: false
 summary: "This post describes what actionable product feedback looks like, and how to get it as a technical seller working with enterprise customers"
 summaryImage: "images/feedback.webp"
+listImage: "getting-actionable-customer-feedback/images/feedback.webp"
 hideLastModified: false
 ---
 

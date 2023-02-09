@@ -4,6 +4,7 @@ date: 2021-04-18T00:00:00-05:00
 draft: false
 summary: "This post highlights the differences in the anatomy of a customer presentation as compared to a narrative-oriented conference talk."
 summaryImage: "images/sasha-on-stage.webp"
+listImage: "anatomy-of-customer-presentation/images/sasha-on-stage.webp"
 hideLastModified: false
 ---
 

@@ -1,23 +1,51 @@
+<div class="box">
+  <a href="{{- .Permalink | relURL -}}">
+    <div class="columns">
 
-  <div class="column is-12">
+      <div class="column is-3">
 
-    <div class="box">
-      
-      <a href="{{- .Permalink | relURL -}}"><h3 class="title is-5 refresh-summary-title">
-        {{ .Params.title }}  </h3></a>
-        <h4 class="title is-6 refresh-summary-subtitle"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"></time>{{ .Date.Format "02 Jan 2006" }}</time>
-        </h4>
-      <p class="refresh-summary">
-        {{- if .Params.summary -}}
-          {{- .Params.summary -}}
+        <!-- Render list summary image -->
+        {{- if .Params.listImage -}}
+        <img src="{{- .Params.listImage -}}" alt="summary image" max-height="180px" />
+
         {{- else }}
-          {{- .Plain -}}
+        <!-- nothing here -->
         {{- end -}}
-      </p> 
-      <div class="action has-text-right">
-        <a href="{{- .Permalink | relURL -}}" class="button is-primary">
-                {{ i18n "readMore" }}
-            </a>
+
+        <!-- This used to be a read more button, but now the entire box is clickable -->
+        <!-- <a href="{{- .Permalink | relURL -}}" class="button is-primary">
+                    {{ i18n "readMore" }}
+                </a> -->
+
       </div>
+
+      <div class="column is-8">
+        <!-- <a href="{{- .Permalink | relURL -}}"> -->
+        <h3 class="title is-5 refresh-summary-title">
+          {{ .Params.title }} </h3>
+        <!-- </a> -->
+        <h4 class="title is-6 refresh-summary-subtitle">
+          {{- if .Params.subtitle -}}
+          {{- .Params.subtitle -}}
+          {{- else }}
+          <!-- nothing here -->
+          {{- end -}}
+        </h4>
+        <h5 class="title is-7 refresh-summary-subtitle">
+          <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}"></time>{{ .Date.Format "02 Jan 2006"
+          }}</time>
+        </h5>
+
+        <!-- Render text summary -->
+        <p class="refresh-summary">
+          {{- if .Params.summary -}}
+          {{- .Params.summary -}}
+          {{- else }}
+          {{- .Plain -}}
+          {{- end -}}
+        </p>
+      </div>
+
     </div>
-  </div>
+  </a>
+</div>

@@ -4,6 +4,7 @@ date: 2022-03-05T00:00:00-05:00
 draft: false
 summary : "This post is my voice, my personal view of the situation in Ukraine as of March 5th 2022"
 summaryImage: "images/stand-with-ukraine.webp"
+listImage: "ukraine/images/stand-with-ukraine.webp"
 hideLastModified: false
 ---
 
