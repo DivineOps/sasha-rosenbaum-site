@@ -1,16 +1,12 @@
 <div class="box">
   <a href="{{- .Permalink | relURL -}}">
     <div class="columns">
-      
+
       {{- if .Params.listImage -}}
       <div class="column is-2">
 
         <!-- Render list summary image -->
         <img src="{{- .Params.listImage -}}" alt="summary image" max-height="180px" />
-
-        {{- else }}
-        <!-- nothing here -->
-        {{- end -}}
 
         <!-- This used to be a read more button, but now the entire box is clickable -->
         <!-- <a href="{{- .Permalink | relURL -}}" class="button is-primary">
