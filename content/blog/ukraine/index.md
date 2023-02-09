@@ -3,11 +3,11 @@ title: "Stand with Ukraine"
 date: 2022-03-05T00:00:00-05:00
 draft: false
 summary : "This post is my voice, my personal view of the situation in Ukraine as of March 5th 2022"
-summaryImage: "summary.jpg"
+summaryImage: "images/stand-with-ukraine.webp"
 hideLastModified: false
 ---
 
-<img src="summary.jpg" alt="Stand with Ukraine"  />
+<img src="images/stand-with-ukraine.webp" alt="Stand with Ukraine"  />
 <br><a style="font-size: small;" href="https://www.flickr.com/photos/mmmswan/51909048430">Image by Michael Swan</a>
 
 This post is my voice, my personal view of the current situation in Ukraine. Even though I am personally safe, I am experiencing some degree of fear posting these words. I am free to speak my mind because I live in a democratic country, and I don't have close relatives in Russia who could be threatened to silence me. Many of my friends are not so lucky.
@@ -28,7 +28,7 @@ As of today, the Russian military is leading an all-out war on Ukraine. They hav
 [Civilian targets](https://www.washingtonpost.com/world/2022/03/01/ukraine-russia-babyn-yar/) all over Ukraine are under fire. People spend days in [makeshift bomb shelters](https://www.npr.org/2022/02/28/1083421199/those-who-havent-fled-ukraine-hunker-down-in-make-shift-bomb-shelters). [Civilians are killed](https://www.theguardian.com/world/2022/mar/02/children-teachers-civilian-casualties-of-the-ukraine-conflict). (You can click on the map below to go to the live updated site)
 
 
-[<img src="map-ua.png" alt="Stand with Ukraine"  style="max-width: 500px"/>](https://liveuamap.com/)
+[<img src="images/map-ua.webp" alt="Stand with Ukraine"  style="max-width: 500px"/>](https://liveuamap.com/)
 
 Even with many [EU borders open to Ukrainian refugees](https://www.washingtonpost.com/world/2022/02/27/ukraine-refugees-photos-videos/), most people cannot flee the country.
 
@@ -54,7 +54,7 @@ Yet NATO is doing NOTHING.
 
 The West is using Ukraine as a live shield, letting Ukrainian women and children die. All the articles published on why NATO isn't creating a no-fly zone over Ukraine can be roughly summarized as ["NATO is afraid of Russia"](https://abcnews.go.com/International/ukraine-fly-zone-option-experts/story?id=83164297)
 
-<img src="no-fly-zone.jpeg" alt="No Fly Zone" style="max-width: 500px"  />
+<img src="images/no-fly-zone.webp" alt="No Fly Zone" style="max-width: 500px"  />
 
 History shows us that dictators don't stop while winning. If the world does nothing to save Ukraine, what's to stop Putin from using the same nuclear threat to invade Latvia, Lithuania or Estonia, Georgia or Kazakhstan, or any other of the former USSR republics?
 
@@ -173,4 +173,4 @@ In May 2019, me and a number of technical folks from all over the world were in 
 
 Please help save my home.
 
-<img src="vyshyvanki.jpg" alt="DevOpsDays Kyiv"  />
+<img src="images/vyshyvanki.webp" alt="DevOpsDays Kyiv"  />

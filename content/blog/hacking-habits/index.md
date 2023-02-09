@@ -1,17 +1,14 @@
 ---
 title: "Hacking Habits"
-date: 2023-01-21T00:00:00-05:00
+date: 2023-01-24T00:00:00-05:00
 draft: false
 summary: "Tiny Habits by BJ Fogg, PhD - The Revelations"
 subtitle: "Tiny Habits by BJ Fogg, PhD - The Revelations"
-summaryImage: "summary.jpg"
+summaryImage: "images/summary.png"
 hideLastModified: false
 ---
 
- 
-<!-- *I read **a lot** of Audiobooks. The best books are shortcuts to knowledge acquired through experience. They leave me with a revelation about the world.  I would like to share some of these revelations with you.* -->
- 
-<img src="/images/blog/hacking-habits/tiny-habits-cover.webp" alt="Tiny Habits Cover" width="250px" style="float: right;"/>
+<img src="images/tiny-habits-cover.webp" alt="Tiny Habits Cover" width="250px" style="float: right;"/>
 
 I have always been fascinated by what BJ Fogg calls "behavior design" and have read quite a few books on it - *The Power of Habit*, *Atomic Habits*, *Nudge*, Allen Carr's *The Easy Way to Control Alcohol*. So far, none came closer to giving me the feeling that I am “hacking the source code” of my own behavior than BJ Fogg’s *Tiny Habits*.
 
@@ -22,7 +19,7 @@ First, the premise.
 # B = MAP
 According to Fogg, behavior can be expressed as a simple formula.
 
-<img src="/images/blog/hacking-habits/b-equals-map.webp" alt="BJ Fogg Behavior Formula" width="850px" />
+<img src="images/b-equals-map.webp" alt="BJ Fogg Behavior Formula" width="850px" />
 
 By now you may have encountered the idea that behavior happens when motivation meets ability and prompt.
 
@@ -40,7 +37,7 @@ Worse than that, we escalate from labeling an action, to labeling a habit, to la
 # The Action Line
 Dr. Fogg suggests explaining the relationship between the three elements of behavior using the Action Line graphic.
 
-<img src="/images/blog/hacking-habits/action-line.webp" alt="BJ Fogg Action Line Chart" width="500px" style="float: right;"/>
+<img src="images/action-line.webp" alt="BJ Fogg Action Line Chart" width="500px" style="float: right;"/>
 
 
 Notice the asymptotic tails. The easier the behavior is to do, the less motivation you need to do it. The higher your motivation, the harder you will be willing to work to do the behavior.
@@ -94,8 +91,6 @@ Try it. See if it works for you.
 
 As Aristotle said, "we are what we repeatedly do." I wish you luck on the journey of designing life through behavior design!
 
-</br>
-
+{{< line_break >}}
 *Interested in seeing more posts like this? Please let me know on {{< new_tab_link href="https://twitter.com/DivineOps" text="Twitter" >}} or {{< new_tab_link href="https://www.linkedin.com/in/sasha-rosenbaum/" text="LinkedIn" >}}*
-
 

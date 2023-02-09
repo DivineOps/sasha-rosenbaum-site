@@ -3,11 +3,11 @@ title: "Getting Actionable Customer Feedback"
 date: 2021-07-10T00:00:00-05:00
 draft: false
 summary: "This post describes what actionable product feedback looks like, and how to get it as a technical seller working with enterprise customers"
-summaryImage: "summary.jpg"
+summaryImage: "images/feedback.webp"
 hideLastModified: false
 ---
 
-<img src="summary.jpg" alt="feedback"  />
+<img src="images/feedback.webp" alt="feedback"  />
 
 If you are a technical seller, you are the connecting link between your company’s customers, and your product team, and you are frequently required to bring feedback from your customer to the product team, and bring their responses back to the customer. 
 
@@ -119,7 +119,9 @@ In the same way you have empathy for your customers, your customers have empathy
 
 That's it for today!
 
-If you have any actionable feedback, feel free to reach out on Twitter, I am <a href="https://twitter.com/DivineOps" target="_blank">@DivineOps</a>
+{{< line_break >}}
+*Interested in seeing more posts like this? Please let me know on {{< new_tab_link href="https://twitter.com/DivineOps" text="Twitter" >}} or {{< new_tab_link href="https://www.linkedin.com/in/sasha-rosenbaum/" text="LinkedIn" >}}*
+
 
 
 
