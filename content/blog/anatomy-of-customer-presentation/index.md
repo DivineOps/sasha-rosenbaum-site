@@ -1,9 +1,12 @@
 ---
 title: "The Anatomy of a Customer Presentation"
+subtitle: "The differences between a customer presenation and a conference talk"
 date: 2021-04-18T00:00:00-05:00
 draft: false
-summary: "This post highlights the differences in the anatomy of a customer presentation as compared to a narrative-oriented conference talk."
+summary: "Most speaking advice is written for the kind of presentation you are likely to give at a conference, the kind I will call a \"narrative talk\". And yet, there is another kind of presentation altogether, the kind I will call a \"customer presentation\". If you are just starting out in Technical Sales or Developer Relations, you might think that these two are one and the same, but they are distinctly different."
+
 summaryImage: "images/sasha-on-stage.webp"
+listImage: "anatomy-of-customer-presentation/images/sasha-on-stage.webp"
 hideLastModified: false
 ---
 

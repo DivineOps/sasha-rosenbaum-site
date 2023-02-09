@@ -1,9 +1,14 @@
 ---
 title: "Stand with Ukraine"
+subtitle: "This post my personal view of the situation in Ukraine as of March 5th 2022"
 date: 2022-03-05T00:00:00-05:00
 draft: false
-summary : "This post is my voice, my personal view of the situation in Ukraine as of March 5th 2022"
+summary : "This war is much bigger than a single country invasion.
+{{< line_break >}}
+Please do not stand idly by as the worst parts of our history repeat themselves.
+"
 summaryImage: "images/stand-with-ukraine.webp"
+listImage: "ukraine/images/stand-with-ukraine.webp"
 hideLastModified: false
 ---
 

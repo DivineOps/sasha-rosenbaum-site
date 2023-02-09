@@ -1,9 +1,12 @@
 ---
 title: "Getting Actionable Customer Feedback"
+subtitle: "What does actionable feedback look like, and how to get it from your customers"
 date: 2021-07-10T00:00:00-05:00
 draft: false
-summary: "This post describes what actionable product feedback looks like, and how to get it as a technical seller working with enterprise customers"
+summary: "Customer feedback is absolutely crucial to product success. The worst sin a company can commit is not listening to their customers. Yet product teams, especially at large companies, get inundated with hundreds of customer requests and escalations. How do you make sure that the requests you are relaying are useful, non-redundant, and detailed enough to be actionable? "
+
 summaryImage: "images/feedback.webp"
+listImage: "getting-actionable-customer-feedback/images/feedback.webp"
 hideLastModified: false
 ---
 
