@@ -3,10 +3,10 @@ title: "Hacking Habits"
 date: 2023-01-24T00:00:00-05:00
 draft: false
 summary: "I have always been fascinated by what BJ Fogg calls \"behavior design\" and have read quite a few books on it - *The Power of Habit*, *Atomic Habits*, *Nudge*, Allen Carr's *The Easy Way to Control Alcohol*. So far, none came closer to giving me the feeling that I am “hacking the source code” of my own behavior than BJ Fogg’s *Tiny Habits*.
+{{< line_break >}}
+I found lots of good ideas in the book, including two that are causing me to look at human behavior in a new way. The kind of ideas I call ***revelations***"
 
-I found lots of good ideas in the book, including two that are causing me to look at human behavior in a new way. The kind of ideas I call ***revelations***
-"
-subtitle: "Tiny Habits by BJ Fogg, PhD - The Revelations"
+subtitle: "Insights from *Tiny Habits* by BJ Fogg, PhD"
 summaryImage: "images/summary.png"
 listImage: "hacking-habits/images/summary.png"
 hideLastModified: false

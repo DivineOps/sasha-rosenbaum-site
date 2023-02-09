@@ -26,7 +26,7 @@
         <!-- </a> -->
         <h4 class="title is-6 refresh-summary-subtitle">
           {{- if .Params.subtitle -}}
-          {{- .Params.subtitle -}}
+          {{- .Params.subtitle | markdownify -}}
           {{- else }}
           <!-- nothing here -->
           {{- end -}}
@@ -39,7 +39,7 @@
         <!-- Render text summary -->
         <p class="refresh-summary">
           {{- if .Params.summary -}}
-          {{- .Params.summary -}}
+          {{- .Params.summary | markdownify -}}
           {{- else }}
           {{- .Plain -}}
           {{- end -}}
