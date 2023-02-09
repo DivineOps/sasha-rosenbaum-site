@@ -4,7 +4,7 @@ date: 2023-01-24T00:00:00-05:00
 draft: false
 summary: "Tiny Habits by BJ Fogg, PhD - The Revelations"
 subtitle: "Tiny Habits by BJ Fogg, PhD - The Revelations"
-#summaryImage: "summary.png"
+summaryImage: "summary.png"
 hideLastModified: false
 ---
 
