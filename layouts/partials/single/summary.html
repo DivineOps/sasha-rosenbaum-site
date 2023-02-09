@@ -41,7 +41,7 @@
           {{- if .Params.summary -}}
           {{- .Params.summary | markdownify -}}
           {{- else }}
-          {{- .Plain -}}
+          {{- .Plain | markdownify -}}
           {{- end -}}
         </p>
       </div>

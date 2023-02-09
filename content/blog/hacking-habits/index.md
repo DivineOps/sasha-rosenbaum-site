@@ -8,7 +8,7 @@ I found lots of good ideas in the book, including two that are causing me to loo
 
 subtitle: "Insights from *Tiny Habits* by BJ Fogg, PhD"
 summaryImage: "images/summary.png"
-listImage: "hacking-habits/images/summary.png"
+listImage: "hacking-habits/images/action-line.webp"
 hideLastModified: false
 ---
 
