@@ -1,6 +1,6 @@
 ---
 title: "Stand with Ukraine"
-subtitle: "This post my personal view of the situation in Ukraine as of March 5th 2022"
+subtitle: "This post is my personal view of the situation in Ukraine as of March 5th 2022"
 date: 2022-03-05T00:00:00-05:00
 draft: false
 summary : "This war is much bigger than a single country invasion.
