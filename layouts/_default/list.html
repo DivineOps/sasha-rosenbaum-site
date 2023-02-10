@@ -1,27 +1,41 @@
 {{- define "main" -}}
 
-    {{- partial "navbar.html" . -}}
-    {{- partial "navbar-clone.html" . -}}
+{{- partial "navbar.html" . -}}
+{{- partial "navbar-clone.html" . -}}
 
-    <div class="section">
-      <ul class="posts">
-        {{ range .Data.Pages }}
-        {{ if eq .Type .Section }}
-        {{- partial "single/summary.html" . -}}
-        {{ end }}
-        {{ end }}
-      </ul>
+<div class="section">
+  <div class="columns">
+    <div class="column ">
+      <h1 class="title is-2 section-title">{{- .Title -}}</h1>
+      <h5 class="subtitle is-5 is-muted">{{- .Params.Subtitle | markdownify -}}</h5>
     </div>
-    
-    {{- partial "footer.html" . -}}
 
-    <!-- Back To Top Button -->
-    <div id="backtotop"><a href="#"></a></div>
+    <div class="column  has-text-right has-text-left-mobile">
+      <!-- bruteforce append index.xml to the base list page URL - points to the RSS feed -->
+      <a href="{{- .Permalink | relURL -}}index.xml" target="_blank">
+        <img src="/images/rss-icon.png" width="60px">
+      </a>
+      </a>
+    </div>
+  </div>
+  
+  <div class="divider"></div>
+  <br />
 
-    {{- partial "sidebar.html" . -}}
+  <ul class="posts">
+    {{ range .Data.Pages }}
+    {{ if eq .Type .Section }}
+    {{- partial "single/summary.html" . -}}
+    {{ end }}
+    {{ end }}
+  </ul>
+</div>
+
+{{- partial "footer.html" . -}}
+
+<!-- Back To Top Button -->
+<div id="backtotop"><a href="#"></a></div>
+
+{{- partial "sidebar.html" . -}}
 
 {{- end -}}
-
-
-
-

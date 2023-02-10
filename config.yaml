@@ -1,6 +1,6 @@
 baseURL: https://www.sasharosenbaum.com/
 languageCode: en-us
-title: Personal website and blog
+title: Sasha Rosenbaum website and blog
 theme: hugo-refresh
 # theme: ../..
 
@@ -17,9 +17,17 @@ staticDir: "static"
 DefaultContentLanguage: en
 
 ## Option to disable additional language in your site.
-# disableLanguages: ["ru"]
+disableLanguages: ["ru"]
 
 #disableKinds: ["sitemap","RSS"]
+
+#RSS params
+#rssLimit: 20
+copyright: "Sasha Rosenbaum - 2023"
+languageCode: "en-us"
+author:
+  name: "Sasha Rosenbaum"
+
 
 # Add Google Analytics 4 tracking (this parameter doesn't seem to do anything)
 googleAnalytics: "G-CCGJLWRQ0W"
