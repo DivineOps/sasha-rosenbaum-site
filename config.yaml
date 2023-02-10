@@ -21,9 +21,7 @@ DefaultContentLanguage: en
 
 #disableKinds: ["sitemap","RSS"]
 
-# Add Google Analytics tracking
-# googleAnalytics: "UA-115911216-1"
-# Add Google Analytics 4 tracking
+# Add Google Analytics 4 tracking (this parameter doesn't seem to do anything)
 googleAnalytics: "G-CCGJLWRQ0W"
 
 # Enable HTML tags
