@@ -22,7 +22,9 @@ DefaultContentLanguage: en
 #disableKinds: ["sitemap","RSS"]
 
 # Add Google Analytics tracking
-googleAnalytics: "UA-115911216-1"
+# googleAnalytics: "UA-115911216-1"
+# Add Google Analytics 4 tracking
+googleAnalytics: "G-CCGJLWRQ0W"
 
 # Enable HTML tags
 markup:
