@@ -23,7 +23,7 @@ disableLanguages: ["ru"]
 
 #RSS params
 #rssLimit: 20
-copyright: "2023 Sasha Rosenbaum"
+copyright: "Sasha Rosenbaum - 2023"
 languageCode: "en-us"
 author:
   name: "Sasha Rosenbaum"
